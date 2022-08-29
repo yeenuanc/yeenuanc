@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there! I'm Yvonne 👋 
+
+- 🔭 I’m an Actuarial Analyst.
+- 🌱 I’m currently pursuing a Master's degree in Data Analyst in Business.
+- 👯 I’m interested in learning about how to use data to collaborate with my field of interest.
+- 📫 How to reach me: https://www.linkedin.com/in/yee-nuan-chan/
+
 
 <!--
 **yeenuanc/yeenuanc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
